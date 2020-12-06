@@ -1,2 +1,2 @@
 # VATISM_tutorial
-밧심(VATSIM) 입문을 위한 학습 저장소
+Taking notes for preparation of vATC(air traffic controller) in Hong Kong vACC
