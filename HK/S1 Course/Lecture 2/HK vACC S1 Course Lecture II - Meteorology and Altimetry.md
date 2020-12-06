@@ -162,9 +162,13 @@
 
 ## Terminal Aerodrome Forecast(TAF)
 
-* providing a prediction of the weather conditions within 5 statue miles of the aerodrome normally for next 24 hours period.
+* providing a prediction of the weather conditions within 5 statue miles of large aerodrome normally for next 24 hours period.
 
 ## AIRMET and SIGMET
+
+![AIRMET/SIGMET 해석 : 네이버 블로그](https://lh3.googleusercontent.com/proxy/i6W6H2i1mYOsf_yBBoD2b-n1D-L5ZUGRf8xd1zO3or1QnEgi4FAyHmgWgCIugjdaqUwYJlhZltrvGryCz6Z2MtVRH9bhtGiDkud0saMnuagbHWRefNDbrfcAm0N0F8TGha3H7NVa-Td45MtTp9jtGY41p0v1d3GhbZLBkdD3NV0hIb-ovPpintsfVBrx_5l3WkOIg5cNhWVMb1rsgMVb1CaHaKosg00uCKARjjbE_n93VPH908z17VTxu8BsmKoSi0LER_wWUGDEaFOu0EPk5zgbHZkn8oh2lgA)
+
+* AIRMET is more applicable to smaller aircraft, while SIGMET is applicable to all aircraft.
 
 * AIRMET - Airmen's Meteorological Information
   * referred to as Weather Advisories
@@ -220,3 +224,18 @@ https://mediawiki.ivao.aero/index.php?title=Altimetry_for_air_traffic_controller
 #### Descending Phase
 
 ![Altimetry TA TRL descending.PNG](https://mediawiki.ivao.aero/images/4/44/Altimetry_TA_TRL_descending.PNG)
+
+## Mininum Usable Flight Levels
+
+* Aircraft fly at different altitudes as they travel through areas with differing atmospheric pressure.
+* This does not always work between two aircrafts assigned an altitude close to TA and a flight level close to TL.
+
+* If the local altimeter ever drops below 1013hPa, then the 1000 foot separation required between the two aircraft - called Transition Layer - is lost.
+
+## Minimum Sector Altitude (MSA)
+
+* The Minimum Sector Altitude (MSA) is the lowest altitude which may be used which will provide a minimum clearance of **300 m** (1 000 ft) above all objects located in the area contained within a sector of a circle of 46 km (25 NM) radius centered on a radio aid to navigation.
+* Image below shows AMA - Area Minimum Altitude.
+  * https://medium.com/@cs_pilot/%ED%95%AD%EA%B3%B5%EB%8F%84%EC%97%90-%ED%91%9C%EC%8B%9C%EB%90%98%EB%8A%94-%EA%B3%A0%EB%8F%84%EB%93%A4-altitudes-depicted-in-aeronautical-charts-5256cffd7ab0
+
+![Image for post](https://miro.medium.com/max/275/1*gAkD4vcDhG1G-rzMr_I8XA.jpeg)
